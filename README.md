@@ -1,2 +1,4 @@
 # hello-world
-just a repository
+Hi everybody!
+  minghanqiu here,i love han!
+this is my first line in the github.
