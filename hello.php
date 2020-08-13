@@ -1,3 +1,3 @@
-include
 <?php 
+echo 'ajax nb'
 ?>
